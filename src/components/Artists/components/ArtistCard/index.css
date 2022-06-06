@@ -1,0 +1,9 @@
+.artistCard {
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  background-color: #c3baba;
+  color: #fff;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
